@@ -5,4 +5,8 @@ data type that exist in the Python language. Please pay attention for the PEP 8 
 choosing variable names!
 
 **Answers**
-to be added
+my_boolean = True
+my_float = 2.71
+my_int = 100
+my_string = "Gene"
+my_null = None
