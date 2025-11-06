@@ -6,13 +6,15 @@ choosing variable names!
 
 **Answers**
 
-my_boolean = True
+```
 
-my_float = 2.71
+my_boolean_variable = True
 
-my_int = 100
+my_float_variable = 2.71
 
-my_string = "Gene"
+my_int_variable = 100
 
-my_null = None
+my_string_variable = "Gene"
 
+my_null_variable = None
+```
