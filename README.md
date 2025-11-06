@@ -1,6 +1,8 @@
 # assigment1
 Student 1: IrmakEda
+
 Student 2: Alperenisbackagain
+
 Student 3: JiyanBozkurt
 
 ASSIGNMENT I: COLLABORATIVE PROGRAMMING WITH GIT
